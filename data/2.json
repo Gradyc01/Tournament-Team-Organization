@@ -1,0 +1,33 @@
+{
+    "List of Players": [
+        {
+            "Has Team?": false,
+            "Player Age": 1,
+            "Player Name": "1"
+        },
+        {
+            "Has Team?": true,
+            "Player Age": 2,
+            "Player Name": "2"
+        },
+        {
+            "Has Team?": false,
+            "Player Age": 3,
+            "Player Name": "3"
+        },
+        {
+            "Has Team?": false,
+            "Player Age": 4,
+            "Player Name": "4"
+        }
+    ],
+    "List of Teams": [
+        {
+            "Team Name": "1",
+            "Suspension Status": true,
+            "Seeding": 1,
+            "Team Members": []
+        }
+    ],
+    "League Name": "Grady"
+}
